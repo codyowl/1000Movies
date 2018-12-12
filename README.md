@@ -323,213 +323,213 @@ The Learning Tree<br>
 The Prime of Miss Jean Brodie, <br> and The Wild Bunch<br>
 
 1970: <br>
-Catch-22
-I girasoli (Sunflower)
-M*A*S*H
-Start the Revolution Without Me
-The Vampire Lovers
-Tora! Tora! Tora!
-10 Rillington Place
-Carnal Knowledge
-Harold and Maude
-McCabe & Mrs. Miller
-Play Misty for Me
-The Anderson Tapes
-The House that Dripped Blood
-The Last Picture Show
-Willy Wonka and the Chocolate Factory
-Aguirre
-the Wrath of God
-Avanti
-Everything You Always Wanted to Know About Sex *But Were Afraid to Ask
-Fat City
-Sleuth
-Solaris
-The Candidate
-The Godfather
-The Ruling Class
-Badlands
-High Plain Drifter
-Live and Let Die
-Mean Streets
-Papillon
-Serpico
-The Exorcist
-The Long Goodbye
-The Sting
-The Wicker Man
-Westworld
-Alice Doesn’t Live Here Anymore
-Blazing Saddles
-California Split
-Chinatown
-Foxy Brown
-Murder on the Orient Express
-The Godfather
-Part II
-The Man With the Golden Gun
-The Tamarind Seed
-Thunderbolt and Lightfoot
-Young Frankenstein
-All Creatures Great and Small
-Dog Day Afternoon
-Jaws
-Nashville
-The Great Waldo Pepper
-The Man Who Would be King
-The Rocky Horror Picture Show
-Three Days of the Condor
-All the President's Men
-Family Plot
-Marathon Man
-Network
-Robin and Marian
-Rocky
-Silver Streak
-Taxi Driver
-The Little Girl Who Lives Down the Lane
-The Outlaw Josey Wales
-The Shootist
-3 Women
-A Bridge too Far
-Black Sunday
-Close Encounters of the Third Kind
-Smokey and the Bandit
-Suspiria
-The Spy Who Loved Me
-Una giornata particolare (A Special Day)
-Halloween
-Superman
-The Boys from Brazil
-The Buddy Holly Story
-The Deer Hunter
-10
-A Little Romance
-Alien
-Apocalypse Now
-Kramer vs. Kramer
-Norma Rae
-Tess
-The Frisco Kid
-The Great Santini
-Time After Time
+Catch-22<br>
+I girasoli (Sunflower)<br>
+M*A*S*H<br>
+Start the Revolution Without Me<br>
+The Vampire Lovers<br>
+Tora! Tora! Tora!<br>
+10 Rillington Place<br>
+Carnal Knowledge<br>
+Harold and Maude<br>
+McCabe & Mrs. Miller<br>
+Play Misty for Me<br>
+The Anderson Tapes<br>
+The House that Dripped Blood<br>
+The Last Picture Show<br>
+Willy Wonka and the Chocolate Factory<br>
+Aguirre<br>
+the Wrath of God<br>
+Avanti<br>
+Everything You Always Wanted to Know About Sex *But Were Afraid to Ask<br>
+Fat City<br>
+Sleuth<br>
+Solaris<br>
+The Candidate<br>
+The Godfather<br>
+The Ruling Class<br>
+Badlands<br>
+High Plain Drifter<br>
+Live and Let Die<br>
+Mean Streets<br>
+Papillon<br>
+Serpico<br>
+The Exorcist<br>
+The Long Goodbye<br>
+The Sting<br>
+The Wicker Man<br>
+Westworld<br>
+Alice Doesn’t Live Here Anymore<br>
+Blazing Saddles<br>
+California Split<br>
+Chinatown<br>
+Foxy Brown<br>
+Murder on the Orient Express<br>
+The Godfather<br>
+Part II<br>
+The Man With the Golden Gun<br>
+The Tamarind Seed<br>
+Thunderbolt and Lightfoot<br>
+Young Frankenstein<br>
+All Creatures Great and Small<br>
+Dog Day Afternoon<br>
+Jaws<br>
+Nash<br>ville
+The Great Waldo Pepper<br>
+The Man Who Would be King<br>
+The Rocky Horror Picture Show<br>
+Three Days of the Condor<br>
+All the President's Men<br>
+Family Plot<br>
+Marathon Man<br>
+Network<br>
+Robin and Marian<br>
+Rocky<br>
+Silver Streak<br>
+Taxi Driver<br>
+The Little Girl Who Lives Down the Lane<br>
+The Outlaw Josey Wales<br>
+The Shootist<br>
+3 Women<br>
+A Bridge too Far<br>
+Black Sunday<br>
+Close Encounters of the Third Kind<br>
+Smokey and the Bandit<br>
+Suspiria<br>
+The Spy Who Loved Me<br>
+Una giornata particolare (A Special Day)<br>
+Halloween<br>
+Superman<br>
+The Boys from Brazil<br>
+The Buddy Holly Story<br>
+The Deer Hunter<br>
+10<br>
+A Little Romanc<br>e
+Alien<br>
+Apocalypse Now<br>
+Kramer vs. Kramer<br>
+Norma Rae<br>
+Tess<br>
+The Frisco Kid<br>
+The Great Santini<br>
+Time After Time<br>
 
 1980: <br>
-Airplane!
-Atlantic City
-Coal Miner’s Daughter
-Raging Bull
-Somewhere in Time
-Stir Crazy
-The Changeling
-The Elephant Man
-The Final Countdown
-The Long Good Friday
-The Stunt Man
-Used Cars
-Absence of Malice
-An American Werewolf in London
-Chariots of Fire
-Das Boot
-Excalibur
-Eyewitness
-On Golden Pond
-Raiders of the Lost Ark
+Airplane! <br>
+Atlantic City<br>
+Coal Miner’s Daughter<br>
+Raging Bull<br>
+Somewhere in Time<br>
+Stir Crazy<br>
+The Changeling<br>
+The Elephant Man<br>
+The Final Countdown<br>
+The Long Good Friday<br>
+The Stunt Man<br>
+Used Cars<br>
+Absence of Malice<br>
+An American Werewolf in London<br>
+Chariots of Fire<br>
+Das Boot<br>
+Excalibur<br>
+Eyewitness<br>
+On Golden Pond<br>
+Raiders of the Lost Ark<br>
 S.O.B., <br> 
-Stripes
-Blade Runner
-Deathtrap
-E.T. the Extra-Terrestrial
-Gandhi
-My Favorite Year
-Night Shift
-Personal Best
-Sophie’s Choice
-The King of Comedy
-The Verdict
-The Year of Living Dangerously
-Verdict
-Victor Victoria
-A Christmas Story
-Mr. Mom
-National Lampoon's Vacation
-Risky Business
-Silkwood
-Tender Mercies
-The Big Chill
-The Dead Zone
-The Hunger
-The Outsiders
-The Right Stuff
-A Christmas Carol
-Amadeus
-Blood Simple
-Cal
-Ghostbusters
-It Came Upon the Midnight Clear
-Moscow on the Hudson
-Once Upon a Time in Americal
-Paris
-Texas
-Places in the Heart
-Romancing the Stone
-Starman
-Streets of Fire
-The Adventures of Buckaroo Banzai Across the 8th Dimension
-The Killing Fields
-The Natural
-The Philadelphia Experiment
-The Terminator
-The Woman in Red
-Tightrope
-A Room With a View
-Back to the FutureMarie
-Murphy’s Romance
-Rocky IV
-The Color Purple
-Wetherby
-Witness
-Aliens
-Betty Blue
-Duet for One
-Gung Ho
-Hannah and Her Sisters
-Sid & Nancy
-Star Trek IV: The Voyage Home
-The Big Easy
-The Fly
-The Mosquito Coast
-Top Gun
-Tough Guys
-84 Charing Cross Road
-Babette’s Feast
-Broadcast News
-Cry Freedom
-Empire of the Sun
-Fatal Attraction
-Good Morning
-Vietnam
-Hope and Glory
-Ironweed
-La Bamba
-Matewan
-Maurice
-Near Dark
-No Way Out
-Raising Arizona
-Robocop
-Street Smart
-The Princess Bride
-The Untouchables
-The Whales of August
-Wall Street
-A Cry in the Dark
-A Fish Called Wanda
-Beetlejuice
-Big
-Biloxi Blues
-Bird
-Bull Durham
+Stripes<br>
+Blade Runner<br>
+Deathtrap<br>
+E.T. the Extra-Terrestrial<br>
+Gandhi<br>
+My Favorite Year<br>
+Night Shift<br>
+Personal Best<br>
+Sophie’s Choice<br>
+The King of Comedy<br>
+The Verdict<br>
+The Year of Living Dangerously<br>
+Verdict<br>
+Victor Victoria<br>
+A Christmas Story<br>
+Mr. Mom<br>
+National Lampoon's Vacation<br>
+Risky Business<br>
+Silkwood<br>
+Tender Mercies<br>
+The Big Chill<br>
+The Dead Zone<br>
+The Hunger<br>
+The Outsiders<br>
+The Right Stuff<br>
+A Christmas Carol<br>
+Amadeus<br>
+Blood Simple<br>
+Cal<br>
+Ghostbusters<br>
+It Came Upon the Midnight Clear<br>
+Moscow on the Hudson<br>
+Once Upon a Time in Americal<br>
+Paris<br>
+Texas<br>
+Places in the Heart<br>
+Romancing the Stone<br>
+Starman<br>
+Streets of Fire<br>
+The Adventures of Buckaroo Banzai Across the 8th Dimension<br>
+The Killing Fields<br>
+The Natural<br>
+The Philadelphia Experiment<br>
+The Terminator<br>
+The Woman in Red<br>
+Tightrope<br>
+A Room With a View<br>
+Back to the FutureMarie<br>
+Murphy’s Romance<br>
+Rocky IV<br>
+The Color Purple<br>
+Wetherby<br>
+Witness<br>
+Aliens<br>
+Betty Blue<br>
+Duet for One<br>
+Gung Ho<br>
+Hannah and Her Sisters<br>
+Sid & Nancy<br>
+Star Trek IV: The Voyage Home<br>
+The Big Easy<br>
+The Fly<br>
+The Mosquito Coast<br>
+Top Gun<br>
+Tough Guys<br>
+84 Charing Cross Road<br>
+Babette’s Feast<br>
+Broadcast News<br>
+Cry Freedom<br>
+Empire of the Sun<br>
+Fatal Attraction<br>
+Good Morning<br>
+Vietnam<br>
+Hope and Glory<br>
+Ironweed<br>
+La Bamba<br>
+Matewan<br>
+Maurice<br>
+Near Dark<br>
+No Way Out<br>
+Raising Arizona<br>
+Robocop<br>
+Street Smart<br>
+The Princess Bride<br>
+The <br>
+The Whales of August<br>
+Wall Street<br>
+A Cry in the Dark<br>
+A Fish Called Wanda<br>
+Beetlejuice<br>
+Big<br>
+Biloxi Blues<br>
+Bird<br>
+Bull Durham<br>
 Clean and Sober, <br> 
 Da, <br>
 Die Hard, <br> 

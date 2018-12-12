@@ -1,6 +1,6 @@
 Hollywood:
 
-1920:
+1920: <br>
 Nosferatu <br>
 Safety Last <br>
 Battleship Potemkin <br>
@@ -14,7 +14,7 @@ The Wind<br>
 A Wild Party<br>
 Die Buchse der Pandora<br>
 
-1930:
+1930: <br>
 M <br>
 Platinum Blonde<br>
 The Miracle Woman<br>
@@ -59,7 +59,7 @@ The Hunchback of Notre Dame <br>
 The Wizard of Oz <br>
 Wuthering Heights and Young Mr. Lincoln<br>
 
-1940:
+1940: <br>
 Foreign Correspondent<br>
 His Girl Friday<br>
 Kitty Foyle<br>
@@ -130,7 +130,7 @@ The Heiress <br>
 The Third Man<br>
 Twelve O’Clock High<br>
 
-1950:
+1950: <br>
 All About Eve<br>
 Father of the Bride<br>
 Harvey<br>
@@ -164,7 +164,7 @@ Julius Caesar<br>
 Roman Holiday<br>
 Shane<br>
 Stalag 17<br>
-20,000 Leagues Under the Sea<br>
+20, <br>000 Leagues Under the Sea<br>
 Executive Suite<br>
 L’oro di Napoli (The Gold of Naples)<br>
 On the Waterfront<br>
@@ -205,7 +205,7 @@ Teacher’s Pet<br>
 The Big Country<br>
 The Vikings<br>
 Touch of Evil<br>
-Vertigo, <br> 
+Vertigo, <br> <br> 
 Anatomy of a Murder<br>
 Ben-Hur<br>
 Compulsion<br>
@@ -218,7 +218,7 @@ The Hound of the Baskervilles<br>
 The Mummy<br>
 The Nun’s Story<br>
 
-1960:
+1960: <br>
 BUtterfield 8<br>
 Exodus<br>
 Flaming Star<br>
@@ -254,13 +254,13 @@ Cleopatra<br>
 From Russia With Love<br>
 Ieri<br>
 Oggi<br>
-Domani (Yesterday, Today, and Tomorrow)<br>
+Domani (Yesterday, <br> Today, <br> and Tomorrow)<br>
 McLintock!<br>
 The Birds<br>
 The Great Escape<br>
 The Thrill of it All<br>
 Becket<br>
-Dr. Strangelove or; How I Learned to Stop Worrying and Love the Bomb, Goldfinger<br>
+Dr. Strangelove or; How I Learned to Stop Worrying and Love the Bomb, <br> Goldfinger<br>
 Hush… Hush<br>
 Sweet Charlotte<br>
 Marnie<br>
@@ -285,10 +285,10 @@ Grand Prix<br>
 Harper (The Moving Target)<br>
 How to Steal a Million<br>
 The Fortune Cookie<br>
-The Good, the Bad and the Ugly, <br>
+The Good, <br> the Bad and the Ugly, <br> <br>
 Torn Curtain<br>
 Walk<br>
-Don’t Run, Who’s Afraid of, Virginia Woolf?<br>
+Don’t Run, <br> Who’s Afraid of, <br> Virginia Woolf?<br>
 Barefoot in the Park<br>
 Belle de Jour<br>
 Cool Hand Luke<br>
@@ -320,9 +320,9 @@ Support Your Local Sheriff<br>
 The Battle of Britain<br>
 The Italian Job<br>
 The Learning Tree<br>
-The Prime of Miss Jean Brodie, and The Wild Bunch<br>
+The Prime of Miss Jean Brodie, <br> and The Wild Bunch<br>
 
-1970:
+1970: <br>
 Catch-22
 I girasoli (Sunflower)
 M*A*S*H
@@ -414,7 +414,7 @@ The Frisco Kid
 The Great Santini
 Time After Time
 
-1980:
+1980: <br>
 Airplane!
 Atlantic City
 Coal Miner’s Daughter
@@ -435,7 +435,7 @@ Excalibur
 Eyewitness
 On Golden Pond
 Raiders of the Lost Ark
-S.O.B., 
+S.O.B., <br> 
 Stripes
 Blade Runner
 Deathtrap
@@ -530,499 +530,500 @@ Big
 Biloxi Blues
 Bird
 Bull Durham
-Clean and Sober, 
-Da,
-Die Hard, 
-Frantic, 
-Gorillas in the Mist, 
-Midnight Run, 
-Rain Man, 
-Scrooged, 
-Stand and Deliver, 
-The Accused, 
-The Last Temptation of Christ, 
-The Unbearable Lightness of Being,
-Tucker: The Man and His Dream, 
-Who Framed Roger Rabbit, 
-Working Girl, 
-Always, 
-Batman,
-Born on the Fourth of July, 
-Dead Poet’s Society, 
-Do the Right Thing, 
-Driving Miss Daisy, 
-Fat Man and Little Boy, 
-Glory, 
-Henry V, 
-Indiana Jones and the Last Crusade, 
-Lean on Me, 
-Lonesome Dove, 
-Miss Firecracker, 
-My Left Foot, 
-National Lampoon’s Christmas Vacation, 
-Scandal, 
-Steel Magnolias, 
-The Fabulous Baker Boys, 
-The Tall Guy, 
-The War of the Roses, 
+Clean and Sober, <br> 
+Da, <br>
+Die Hard, <br> 
+Frantic, <br> 
+Gorillas in the Mist, <br> 
+Midnight Run, <br> 
+Rain Man, <br> 
+Scrooged, <br> 
+Stand and Deliver, <br> 
+The Accused, <br> 
+The Last Temptation of Christ, <br> 
+The Unbearable Lightness of Being, <br>
+Tucker: The Man and His Dream, <br> 
+Who Framed Roger Rabbit, <br> 
+Working Girl, <br> 
+Always, <br> 
+Batman, <br>
+Born on the Fourth of July, <br> 
+Dead Poet’s Society, <br> 
+Do the Right Thing, <br> 
+Driving Miss Daisy, <br> 
+Fat Man and Little Boy, <br> 
+Glory, <br> 
+Henry V, <br> 
+Indiana Jones and the Last Crusade, <br> 
+Lean on Me, <br> 
+Lonesome Dove, <br> 
+Miss Firecracker, <br> 
+My Left Foot, <br> 
+National Lampoon’s Christmas Vacation, <br> 
+Scandal, <br> 
+Steel Magnolias, <br> 
+The Fabulous Baker Boys, <br> 
+The Tall Guy, <br> 
+The War of the Roses, <br> 
 When Harry Met Sally
 
-1990:
-Awakenings, 
-Days of Thunder, 
-Die Hard 2, 
-Goodfellas, 
-Home Alone, 
-Memphis Belle, 
-Misery, 
-Postcards from the Edge, 
-The Hunt for Red October, 
-At Play in the Fields of the Lord, 
-Barton Fink, 
-Cape Fear, 
-Close My Eyes, 
-Dead Again, 
-Fried Green Tomatoes, 
-Little Man Tate, 
-Only the Lonely, 
-Rambling Rose, 
-Regarding Henry, 
-Robin Hood Prince of Thieves, 
-Silence of the Lambs, 
-Terminator 2: Judgment Day, 
-The Commitments, 
-The Fisher King, 
-Thelma and Louise, 
-Truly, 
-Madly, 
-Deeply, 
-A Few Good Men, 
-A League of Their Own, 
-A Muppet Christmas Carol, 
-About Schmidt, 
-Aladdin, 
-Bram Stoker’s Dracula, Chaplin. 
-Deep Cover, 
-Howard’s End, 
-Lorenzo’s Oil, 
-Malcolm X, 
-One False Move, 
-Patriot Games, 
-Peter’s Friends, 
-Reservoir Dogs, 
-The Last of the Mohicans, 
-The Player, 
-Unforgiven, 
-A Perfect World, 
-Cool Runnings, 
-Dave, 
-Falling Down, 
-Gettysburg, 
-Groundhog Day, 
-In the Line of Fire, 
-In the Name of the Father, 
-Jurassic Park, 
-Menace II Society, 
-Mrs. Doubtfire, 
-Much Ado About Nothing, 
-Nikita (La Femme Nikita), 
-Philadelphia, 
-Schindler’s List, 
-Shadowlands, 
-Short Cuts, 
-Six Degrees of Separation, 
-Sleepless in Seattle, 
-Stalingrad, 
-Swing Kids, 
-The Age of Innocence, 
-The Fugitive, 
-The Nightmare Before Christmas, 
-The Piano, 
-The Remains of the Day, 
-The Snapper, 
-This Boy’s Life, 
-What’s Eating Gilbert Grape, 
-Backbeat, 
-Drink Man Woman, 
-Forrest Gump, 
-Four Weddings and a Funeral, 
-Heavenly Creatures, 
-Interview with the Vampire, 
-Little Women, 
-Maverick, 
-Miracle on 34th Street (1994), 
-Muriel’s Wedding, 
-Pulp Fiction, 
-Sirens, 
-The Client, 
-The Madness of King George, 
-The Paper, 
-The Santa Clause, 
-The Shawshank Redemption, 
-12 Monkeys, 
-Apollo 13, 
-Casino, 
-Clueless, 
-Cold Comfort Farm, 
-Copycat, 
-Crimson Tide, 
-Dead Man Walking, 
-Dolores Claiborne, 
-Goldeneye, 
-Heat, 
-Home for the Holidays, 
-Mr. Holland’s Opus, 
-Nixon, 
-Othello, 
-Pride and Prejudice, 
-Richard III, 
-Sense and Sensibility, 
-Seven, 
-The American President, 
-The Bridges of Madison County, 
-The Englishman Who Went Up a Hill But Came Down a Mountain, 
-A Time to Kill, 
-Big Night, 
-Courage Under Fire, 
-Crash, 
-Emma, 
-Eve’s Bayou, 
-Fargo, 
-Hamlet, 
-Jerry Maguire, 
-Lone Star, 
-Michael Collins, 
-Mission: Impossible, 
-Star Trek: First Contact, 
-The Birdcage, 
-The Ghost and the Darkness, 
-The Rock, 
-Air Force One, 
-Annie Hall, 
-Boogie Nights, 
-Contact, 
-Gattaca, 
-Good Will Hunting, 
-Jackie Brown, 
-Men in Black, 
-Mrs. Brown, 
-The Apostle, 
-The Boxer, 
-The Devil’s Advocate, 
-The Game, 
-The Ice Storm, 
-The Rainmaker, 
-Titanic, 
-Apt Pupil, 
-Elizabeth, 
-Frivolous Lola, 
-Gods and Monsters, 
-Out of Sight, 
-Primary Colors, 
-Rushmore, 
-Saving Private, 
-Ryan, 
-Shakespeare In Love, 
-The Big Lebowski, 
-The Negotiator, 
-The Thin Red Line, 
-The Waterboy, 
-The Wedding Singer, 
-Waking Ned Devine, 
-Without Limits, 
-A Walk on the Moon, 
-American Beauty, 
-Election, 
-Galaxy Quest, 
-Holy Smoke, 
-Magnolia, 
-Notting Hill, 
-October Sky, 
-The Cider House Rules, 
-The End of the Affair, 
-The Hurricane, 
-The Iron Giant, 
-The Straight Story, 
-The Talented Mr. Ripley, 
-The Thomas Crown Affair, and Three Kings
+1990: <br>
+Awakenings, <br> 
+Days of Thunder, <br> 
+Die Hard 2, <br> 
+Goodfellas, <br> 
+Home Alone, <br> 
+Memphis Belle, <br> 
+Misery, <br> 
+Postcards from the Edge, <br> 
+The Hunt for Red October, <br> 
+At Play in the Fields of the Lord, <br> 
+Barton Fink, <br> 
+Cape Fear, <br> 
+Close My Eyes, <br> 
+Dead Again, <br> 
+Fried Green Tomatoes, <br> 
+Little Man Tate, <br> 
+Only the Lonely, <br> 
+Rambling Rose, <br> 
+Regarding Henry, <br> 
+Robin Hood Prince of Thieves, <br> 
+Silence of the Lambs, <br> 
+Terminator 2: Judgment Day, <br> 
+The Commitments, <br> 
+The Fisher King, <br> 
+Thelma and Louise, <br> 
+Truly, <br> 
+Madly, <br> 
+Deeply, <br> 
+A Few Good Men, <br> 
+A League of Their Own, <br> 
+A Muppet Christmas Carol, <br> 
+About Schmidt, <br> 
+Aladdin, <br> 
+Bram Stoker’s Dracula, <br> Chaplin. 
+Deep Cover, <br> 
+Howard’s End, <br> 
+Lorenzo’s Oil, <br> 
+Malcolm X, <br> 
+One False Move, <br> 
+Patriot Games, <br> 
+Peter’s Friends, <br> 
+Reservoir Dogs, <br> 
+The Last of the Mohicans, <br> 
+The Player, <br> 
+Unforgiven, <br> 
+A Perfect World, <br> 
+Cool Runnings, <br> 
+Dave, <br> 
+Falling Down, <br> 
+Gettysburg, <br> 
+Groundhog Day, <br> 
+In the Line of Fire, <br> 
+In the Name of the Father, <br> 
+Jurassic Park, <br> 
+Menace II Society, <br> 
+Mrs. Doubtfire, <br> 
+Much Ado About Nothing, <br> 
+Nikita (La Femme Nikita), <br> 
+Philadelphia, <br> 
+Schindler’s List, <br> 
+Shadowlands, <br> 
+Short Cuts, <br> 
+Six Degrees of Separation, <br> 
+Sleepless in Seattle, <br> 
+Stalingrad, <br> 
+Swing Kids, <br> 
+The Age of Innocence, <br> 
+The Fugitive, <br> 
+The Nightmare Before Christmas, <br> 
+The Piano, <br> 
+The Remains of the Day, <br> 
+The Snapper, <br> 
+This Boy’s Life, <br> 
+What’s Eating Gilbert Grape, <br> 
+Backbeat, <br> 
+Drink Man Woman, <br> 
+Forrest Gump, <br> 
+Four Weddings and a Funeral, <br> 
+Heavenly Creatures, <br> 
+Interview with the Vampire, <br> 
+Little Women, <br> 
+Maverick, <br> 
+Miracle on 34th Street (1994), <br> 
+Muriel’s Wedding, <br> 
+Pulp Fiction, <br> 
+Sirens, <br> 
+The Client, <br> 
+The Madness of King George, <br> 
+The Paper, <br> 
+The Santa Clause, <br> 
+The Shawshank Redemption, <br> 
+12 Monkeys, <br> 
+Apollo 13, <br> 
+Casino, <br> 
+Clueless, <br> 
+Cold Comfort Farm, <br> 
+Copycat, <br> 
+Crimson Tide, <br> 
+Dead Man Walking, <br> 
+Dolores Claiborne, <br> 
+Goldeneye, <br> 
+Heat, <br> 
+Home for the Holidays, <br> 
+Mr. Holland’s Opus, <br> 
+Nixon, <br> 
+Othello, <br> 
+Pride and Prejudice, <br> 
+Richard III, <br> 
+Sense and Sensibility, <br> 
+Seven, <br> 
+The American President, <br> 
+The Bridges of Madison County, <br> 
+The Englishman Who Went Up a Hill But Came Down a Mountain, <br> 
+A Time to Kill, <br> 
+Big Night, <br> 
+Courage Under Fire, <br> 
+Crash, <br> 
+Emma, <br> 
+Eve’s Bayou, <br> 
+Fargo, <br> 
+Hamlet, <br> 
+Jerry Maguire, <br> 
+Lone Star, <br> 
+Michael Collins, <br> 
+Mission: Impossible, <br> 
+Star Trek: First Contact, <br> 
+The Birdcage, <br> 
+The Ghost and the Darkness, <br> 
+The Rock, <br> 
+Air Force One, <br> 
+Annie Hall, <br> 
+Boogie Nights, <br> 
+Contact, <br> 
+Gattaca, <br> 
+Good Will Hunting, <br> 
+Jackie Brown, <br> 
+Men in Black, <br> 
+Mrs. Brown, <br> 
+The Apostle, <br> 
+The Boxer, <br> 
+The Devil’s Advocate, <br> 
+The Game, <br> 
+The Ice Storm, <br> 
+The Rainmaker, <br> 
+Titanic, <br> 
+Apt Pupil, <br> 
+Elizabeth, <br> 
+Frivolous Lola, <br> 
+Gods and Monsters, <br> 
+Out of Sight, <br> 
+Primary Colors, <br> 
+Rushmore, <br> 
+Saving Private, <br> 
+Ryan, <br> 
+Shakespeare In Love, <br> 
+The Big Lebowski, <br> 
+The Negotiator, <br> 
+The Thin Red Line, <br> 
+The Waterboy, <br> 
+The Wedding Singer, <br> 
+Waking Ned Devine, <br> 
+Without Limits, <br> 
+A Walk on the Moon, <br> 
+American Beauty, <br> 
+Election, <br> 
+Galaxy Quest, <br> 
+Holy Smoke, <br> 
+Magnolia, <br> 
+Notting Hill, <br> 
+October Sky, <br> 
+The Cider House Rules, <br> 
+The End of the Affair, <br> 
+The Hurricane, <br> 
+The Iron Giant, <br> 
+The Straight Story, <br> 
+The Talented Mr. Ripley, <br> 
+The Thomas Crown Affair, <br> and Three Kings
 
-2000s:
-Almost Famous, 
-Cast Away, 
-Gladiator, 
-Love’s Labour’s Lost, 
-Malena, 
-O Brother, 
-Where Art Thou?, 
-Remember the Titans, 
-Space Cowboys, 
-The Contender, 
-The Patriot, 
-The Perfect Storm, 
-The Yards, 
-Traffic, 
-Unbreakable, 
-Wonder Boys, 
-X-Men, 
-Ali, 
-Anne Frank: The Whole Story, 
-Bridget Jones’s Diary, 
-Donnie Darko, 
-Gosford Park, 
-Iris, 
-Lara Croft: Tomb Raider, 
-Monsoon Wedding, 
-Ocean’s Eleven, 
-The Lord of the Rings: The Fellowship of the Ring, 
-The Man Who Wasn’t There, 
-Training Day, 
-Wit, 
-Y Tu Mama También, 
-8 Femmes, 
-About a Boy, 
-Adaptation, 
-Barbershop, 
-Catch Me If You Can, 
-Far From Heaven, 
-Frida, 
-Gangs of New York, 
-Harry Potter and the Chamber of Secrets, 
-Heaven, 
-Igbo Goes Down, 
-Live From Baghdad, 
-Lord of the Rings: The Two Towers, 
-Minority Report, 
-My Big Fat Greek Wedding, 
-One Hour Photo, 
-Panic Room, 
-Road to Perdition, 
-Sex and Lucia, 
-Star Wars: Attack of the Clones, 
-The Bourne Identity, 
-The Hours, 
-The Lord of the Rings: The Two Towers, 
-The Magdalene Sisters, 
-The Quiet American, 
-Unfaithful, 
-Bad Santa, 
-Calendar Girls, 
-Elf, 
-Lost in Translation, 
-Love Actually, 
-Monster, 
-Open Range, 
-Seabiscuit, 
-The Italian Job (2003), 
-Timeline, 
-Under the Tuscan Sun, 
-Underworld, 
-X2: X-Men United, 
-Collateral, 
-Downfall, 
-Eternal Sunshine of the Spotless Mind, 
-Finding Neverland, Million Dollar Baby, 
-Miracle, 
-Ray, 
-Sideways, 
-Spider-man 2, 
-Team America: World Police, 
-The Aviator, 
-The Incredibles, 
-The Life Aquatic with Steve Zissou, 
-The Polar Express, 
-Brokeback Mountain, 
-Broken Flowers, 
-Capote, 
-Cinderella Man, 
-Corpse Bride, 
-Good Night, and Good Luck, 
-Hustle & Flow, 
-Jarhead,, 
-Junebug, 
-Little Fish, 
-Mrs. Henderson Presents, 
-North Country, 
-Syriana, 
-The Notorious Bettie Page, 
-The Three Burials of Melquiades Estrada, 
-The World’s Fastest Indian, Walk the Line, 
-A Prairie Home Companion, 
-Bandidas, 
-Black Book, 
-Black Snake Moan, 
-Casino Royale, 
-Flags of Our Fathers, 
-Hollywoodland, 
-Letters From Iwo Jima, 
-Little Children, 
-Notes on a Scandal, 
-Talladega Nights: The Ballad of Ricky Bobby, 
-The Departed, 
-The Devil Wears Prada, 
-The Holiday, 
-The Queen, 
-Venus, 
-3:10 to Yuma, 
-Breach, 
-Bury My Heart at Wounded Knee, 
-Enchanted, 
-I’m Not There, 
-In the Valley of Elah, 
-La Vie en Rose, 
-Michael Clayton, 
-No Country for Old Men, 
-Ratatouille, 
-The Assassination of Jesse James by the Coward Robert Ford, 
-The Bourne Ultimatum, 
-The Brave One, 
-The Darjeeling Limited, 
-There Will Be Blood, 
-Waitress, 
-Zodiac, 
-Adam Resurrected, 
-Appaloosa, 
-Bottle Shock, 
-Defiance, 
-Doubt, 
-Frost/Nixon, 
-Gran Torino, 
-Iron Man, 
-Let the Right One In, 
-Miss Pettigrew Lives for a Day, 
-Revolutionary Road, 
-Sunshine Cleaning, 
-The Dark Knight, 
-The Reader, 
-Wall-E, 
-A Single Man, 
-An Educational Avatar, 
-Crazy Heart, 
-Frequently Asked Questions About Time Travel, 
-Invictus, 
-Julie & Julia, 
-Precious: Based on the Novel Push by Sapphire, 
-The Last Station, 
-The Proposal, 
-The Road, 
-The Secret of Kells, 
-Up in the Air, 
-World’s Greatest Dad, 
+2000s: <br>
+Almost Famous, <br> 
+Cast Away, <br> 
+Gladiator, <br> 
+Love’s Labour’s Lost, <br> 
+Malena, <br> 
+O Brother, <br> 
+Where Art Thou?, <br> 
+Remember the Titans, <br> 
+Space Cowboys, <br> 
+The Contender, <br> 
+The Patriot, <br> 
+The Perfect Storm, <br> 
+The Yards, <br> 
+Traffic, <br> 
+Unbreakable, <br> 
+Wonder Boys, <br> 
+X-Men, <br> 
+Ali, <br> 
+Anne Frank: The Whole Story, <br> 
+Bridget Jones’s Diary, <br> 
+Donnie Darko, <br> 
+Gosford Park, <br> 
+Iris, <br> 
+Lara Croft: Tomb Raider, <br> 
+Monsoon Wedding, <br> 
+Ocean’s Eleven, <br> 
+The Lord of the Rings: The Fellowship of the Ring, <br> 
+The Man Who Wasn’t There, <br> 
+Training Day, <br> 
+Wit, <br> 
+Y Tu Mama También, <br> 
+8 Femmes, <br> 
+About a Boy, <br> 
+Adaptation, <br> 
+Barbershop, <br> 
+Catch Me If You Can, <br> 
+Far From Heaven, <br> 
+Frida, <br> 
+Gangs of New York, <br> 
+Harry Potter and the Chamber of Secrets, <br> 
+Heaven, <br> 
+Igbo Goes Down, <br> 
+Live From Baghdad, <br> 
+Lord of the Rings: The Two Towers, <br> 
+Minority Report, <br> 
+My Big Fat Greek Wedding, <br> 
+One Hour Photo, <br> 
+Panic Room, <br> 
+Road to Perdition, <br> 
+Sex and Lucia, <br> 
+Star Wars: Attack of the Clones, <br> 
+The Bourne Identity, <br> 
+The Hours, <br> 
+The Lord of the Rings: The Two Towers, <br> 
+The Magdalene Sisters, <br> 
+The Quiet American, <br> 
+Unfaithful, <br> 
+Bad Santa, <br> 
+Calendar Girls, <br> 
+Elf, <br> 
+Lost in Translation, <br> 
+Love Actually, <br> 
+Monster, <br> 
+Open Range, <br> 
+Seabiscuit, <br> 
+The Italian Job (2003), <br> 
+Timeline, <br> 
+Under the Tuscan Sun, <br> 
+Underworld, <br> 
+X2: X-Men United, <br> 
+Collateral, <br> 
+Downfall, <br> 
+Eternal Sunshine of the Spotless Mind, <br> 
+Finding Neverland, <br> Million Dollar Baby, <br> 
+Miracle, <br> 
+Ray, <br> 
+Sideways, <br> 
+Spider-man 2, <br> 
+Team America: World Police, <br> 
+The Aviator, <br> 
+The Incredibles, <br> 
+The Life Aquatic with Steve Zissou, <br> 
+The Polar Express, <br> 
+Brokeback Mountain, <br> 
+Broken Flowers, <br> 
+Capote, <br> 
+Cinderella Man, <br> 
+Corpse Bride, <br> 
+Good Night, <br> and Good Luck, <br> 
+Hustle & Flow, <br> 
+Jarhead, <br>, <br> 
+Junebug, <br> 
+Little Fish, <br> 
+Mrs. Henderson Presents, <br> 
+North Country, <br> 
+Syriana, <br> 
+The Notorious Bettie Page, <br> 
+The Three Burials of Melquiades Estrada, <br> 
+The World’s Fastest Indian, <br> Walk the Line, <br> 
+A Prairie Home Companion, <br> 
+Bandidas, <br> 
+Black Book, <br> 
+Black Snake Moan, <br> 
+Casino Royale, <br> 
+Flags of Our Fathers, <br> 
+Hollywoodland, <br> 
+Letters From Iwo Jima, <br> 
+Little Children, <br> 
+Notes on a Scandal, <br> 
+Talladega Nights: The Ballad of Ricky Bobby, <br> 
+The Departed, <br> 
+The Devil Wears Prada, <br> 
+The Holiday, <br> 
+The Queen, <br> 
+Venus, <br> 
+3:10 to Yuma, <br> 
+Breach, <br> 
+Bury My Heart at Wounded Knee, <br> 
+Enchanted, <br> 
+I’m Not There, <br> 
+In the Valley of Elah, <br> 
+La Vie en Rose, <br> 
+Michael Clayton, <br> 
+No Country for Old Men, <br> 
+Ratatouille, <br> 
+The Assassination of Jesse James by the Coward Robert Ford, <br> 
+The Bourne Ultimatum, <br> 
+The Brave One, <br> 
+The Darjeeling Limited, <br> 
+There Will Be Blood, <br> 
+Waitress, <br> 
+Zodiac, <br> 
+Adam Resurrected, <br> 
+Appaloosa, <br> 
+Bottle Shock, <br> 
+Defiance, <br> 
+Doubt, <br> 
+Frost/Nixon, <br> 
+Gran Torino, <br> 
+Iron Man, <br> 
+Let the Right One In, <br> 
+Miss Pettigrew Lives for a Day, <br> 
+Revolutionary Road, <br> 
+Sunshine Cleaning, <br> 
+The Dark Knight, <br> 
+The Reader, <br> 
+Wall-E, <br> 
+A Single Man, <br> 
+An Educational Avatar, <br> 
+Crazy Heart, <br> 
+Frequently Asked Questions About Time Travel, <br> 
+Invictus, <br> 
+Julie & Julia, <br> 
+Precious: Based on the Novel Push by Sapphire, <br> 
+The Last Station, <br> 
+The Proposal, <br> 
+The Road, <br> 
+The Secret of Kells, <br> 
+Up in the Air, <br> 
+World’s Greatest Dad, <br> 
 Zombieland
 
-2010s:
-Alleged, 
-Inception, 
-RED, 
-Room in Rome, 
-Salt, 
-Secretariat, 
-The American, 
-The Fighter, 
-The Kids Are All Right, 
-The Town, 
-The Way, 
-Toki o Kakreru Shojo (Time Traveller), 
-True Grit, 
-Bernie, 
-Bridesmaids, 
-Captain America: The First Avenger, 
-Carnage, 
-Coriolanus, 
-Hanna, 
-Harry Potter and the Deathly Hallows Part 2, 
-Haywire, 
-Hugo, 
-Jeff Who Lives at Home, 
-Midnight in Paris, 
-My Week with Marilyn, 
-Source Code, 
-The Best Exotic Marigold Hotel, 
-The Descendants, 
-The Guard, 
-The Help, 
-The Iron Lady, 
-Young Adult, 
-Amour, 
-Brave, 
-Django Unchained, 
-End of Watch, 
-Flight, 
-Hitchcock, 
-Hope Springs, 
-Lincoln, 
-Looper, 
-Marvel’s The Avengers, 
-Much Ado About Nothing, 
-Skyfall, 
-The Amazing Spider-man, 
-The Hunger Games, 
-Zero Dark Thirty, 
-42, 
-About Time, 
-All is Lost, 
-American Hustle, 
-Blue Jasmine, 
-Captain Phillips, 
-Enemy, 
-Fruitvale Station, 
-I’ll Follow You Down, 
-Inside Llewyn Davis, 
-Man of Steel, 
-Nebraska, 
-Philomena, 
-Prisoners, 
-Saving Mr. Banks, 
-The Conjuring, 
-The Lunchbox, 
-The Turning, 
-A Girl Walks Home Alone at Night, 
-American Sniper, 
-Belle, Beyond the Lights, 
-Big Eyes, 
-Birdman, 
-Boyhood, 
-Captain America: The Winter Soldier, 
-Chef, 
-Edge of Tomorrow, 
-Foxcatcher, 
-Nightcrawler, 
-Selma, 
-Snowpiercer, 
-St., Vincent, 
-Still Alice, 
-The Grand Budapest Hotel, 
-The Homesman, 
-The Hundred-Foot Journey, 
-The Imitation Game, 
-The Judge, 
-The Monuments Men, 
-Wild, 
-Ant-Man, 
-Bone Tomahawk, 
-Brooklyn, 
-Carol, 
-Creed, 
-Ex Machina, 
-Far From the Madding Crowd, 
-Inside Out, 
-Mad Max: Fury Road, 
-Mission: Impossible - Rogue Nation, 
-Mr. Holmes, 
-Room, 
-Slow West, 
-Spectre, 
-Spotlight, 
-The Big Short, 
-The Dresser, 
-The Hateful Eight, 
-The Lady in the Van, 
-The Martian, 
-The Walk, 
-Tomorrowland, 
-Woman in Gold, 
-Youth, 
-Eddie the Eagle, 
-Florence Foster Jenkins, 
-Hail, Caesar
+2010s: <br>
+
+Alleged, <br> 
+Inception, <br> 
+RED, <br> 
+Room in Rome, <br> 
+Salt, <br> 
+Secretariat, <br> 
+The American, <br> 
+The Fighter, <br> 
+The Kids Are All Right, <br> 
+The Town, <br> 
+The Way, <br> 
+Toki o Kakreru Shojo (Time Traveller), <br> 
+True Grit, <br> 
+Bernie, <br> 
+Bridesmaids, <br> 
+Captain America: The First Avenger, <br> 
+Carnage, <br> 
+Coriolanus, <br> 
+Hanna, <br> 
+Harry Potter and the Deathly Hallows Part 2, <br> 
+Haywire, <br> 
+Hugo, <br> 
+Jeff Who Lives at Home, <br> 
+Midnight in Paris, <br> 
+My Week with Marilyn, <br> 
+Source Code, <br> 
+The Best Exotic Marigold Hotel, <br> 
+The Descendants, <br> 
+The Guard, <br> 
+The Help, <br> 
+The Iron Lady, <br> 
+Young Adult, <br> 
+Amour, <br> 
+Brave, <br> 
+Django Unchained, <br> 
+End of Watch, <br> 
+Flight, <br> 
+Hitchcock, <br> 
+Hope Springs, <br> 
+Lincoln, <br> 
+Looper, <br> 
+Marvel’s The Avengers, <br> 
+Much Ado About Nothing, <br> 
+Skyfall, <br> 
+The Amazing Spider-man, <br> 
+The Hunger Games, <br> 
+Zero Dark Thirty, <br> 
+42, <br> 
+About Time, <br> 
+All is Lost, <br> 
+American Hustle, <br> 
+Blue Jasmine, <br> 
+Captain Phillips, <br> 
+Enemy, <br> 
+Fruitvale Station, <br> 
+I’ll Follow You Down, <br> 
+Inside Llewyn Davis, <br> 
+Man of Steel, <br> 
+Nebraska, <br> 
+Philomena, <br> 
+Prisoners, <br> 
+Saving Mr. Banks, <br> 
+The Conjuring, <br> 
+The Lunchbox, <br> 
+The Turning, <br> 
+A Girl Walks Home Alone at Night, <br> 
+American Sniper, <br> 
+Belle, <br> Beyond the Lights, <br> 
+Big Eyes, <br> 
+Birdman, <br> 
+Boyhood, <br> 
+Captain America: The Winter Soldier, <br> 
+Chef, <br> 
+Edge of Tomorrow, <br> 
+Foxcatcher, <br> 
+Nightcrawler, <br> 
+Selma, <br> 
+Snowpiercer, <br> 
+St., <br> Vincent, <br> 
+Still Alice, <br> 
+The Grand Budapest Hotel, <br> 
+The Homesman, <br> 
+The Hundred-Foot Journey, <br> 
+The Imitation Game, <br> 
+The Judge, <br> 
+The Monuments Men, <br> 
+Wild, <br> 
+Ant-Man, <br> 
+Bone Tomahawk, <br> 
+Brooklyn, <br> 
+Carol, <br> 
+Creed, <br> 
+Ex Machina, <br> 
+Far From the Madding Crowd, <br> 
+Inside Out, <br> 
+Mad Max: Fury Road, <br> 
+Mission: Impossible - Rogue Nation, <br> 
+Mr. Holmes, <br> 
+Room, <br> 
+Slow West, <br> 
+Spectre, <br> 
+Spotlight, <br> 
+The Big Short, <br> 
+The Dresser, <br> 
+The Hateful Eight, <br> 
+The Lady in the Van, <br> 
+The Martian, <br> 
+The Walk, <br> 
+Tomorrowland, <br> 
+Woman in Gold, <br> 
+Youth, <br> 
+Eddie the Eagle, <br> 
+Florence Foster Jenkins, <br> 
+Hail, <br> Caesar
 
 

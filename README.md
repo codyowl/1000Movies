@@ -1,324 +1,326 @@
 Hollywood:
+
 1920:
-Nosferatu
-Safety Last
-Battleship Potemkin
-Body and Soul
-The Gold Rush
-The Lost World
-Metropolis
-Wings
-La Passion de Jeanne d’Arc 
-The Wind
-A Wild Party
-Die Buchse der Pandora
+Nosferatu <br>
+Safety Last <br>
+Battleship Potemkin <br>
+Body and Soul<br>
+The Gold Rush<br>
+The Lost World<br>
+Metropolis<br>
+Wings<br>
+La Passion de Jeanne d’Arc <br>
+The Wind<br>
+A Wild Party<br>
+Die Buchse der Pandora<br>
 
 1930:
-M 
-Platinum Blonde
-The Miracle Woman
-Scarface
-Shanghai Express 
-Vampyr 
-Baby Face 
-Christopher Strong
-King Kong 
-Morning Glory 
-It Happened One Night 
-The Thin Man
-A Tale of Two Cities 
-Captain Blood 
-The 39 Steps
-Fury 
-Modern Times 
-Mr. Deeds Goest to Town
-Captains Courageous 
-Dead End 
-Lost Horizon 
-Nothing Sacred 
-Snow White and the Seven Dwarfs 
-Stage Door 
-Stella Dallas 
-The Awful Truth 
-Boys Town 
-Bringing Up Baby 
-Holiday 
-Jezebel 
-The Adventures of Robin Hood
-The Lady Vanishes 
-You Can’t Take it With You
-Gone With the Wind
-Goodbye
-Mr. Chips (1939) 
-Love Affair
-Mr. Smith Goes to Washington
-Only Angels Have Wings 
-Stagecoach 
-The Hunchback of Notre Dame 
-The Wizard of Oz 
-Wuthering Heights and Young Mr. Lincoln
+M <br>
+Platinum Blonde<br>
+The Miracle Woman<br>
+Scarface<br>
+Shanghai Express <br>
+Vampyr <br>
+Baby Face <br>
+Christopher Strong<br>
+King Kong <br>
+Morning Glory <br>
+It Happened One Night <br>
+The Thin Man<br>
+A Tale of Two Cities <br>
+Captain Blood <br>
+The 39 Steps<br>
+Fury <br>
+Modern Times <br>
+Mr. Deeds Goest to Town<br>
+Captains Courageous <br>
+Dead End <br>
+Lost Horizon <br>
+Nothing Sacred <br>
+Snow White and the Seven Dwarfs <br>
+Stage Door <br>
+Stella Dallas <br>
+The Awful Truth <br>
+Boys Town <br>
+Bringing Up Baby <br>
+Holiday <br>
+Jezebel <br>
+The Adventures of Robin Hood <br>
+The Lady Vanishes <br>
+You Can’t Take it With You <br>
+Gone With the Wind <br>
+Goodbye <br>
+Mr. Chips (1939) <br>
+Love Affair <br>
+Mr. Smith Goes to Washington<br>
+Only Angels Have Wings <br>
+Stagecoach <br>
+The Hunchback of Notre Dame <br>
+The Wizard of Oz <br>
+Wuthering Heights and Young Mr. Lincoln<br>
 
 1940:
-Foreign Correspondent
-His Girl Friday
-Kitty Foyle
-Rebecca
-The Grapes of Wrath
-The Great Dictator 
-The Little Shop Around the Corner 
-The Philadelphia Story 
-The Shop Around the Corner 
-Ball of Fire 
-Citizen Kane 
-Hold Back the Dawn 
-How Green Was My Valley 
-Meet John Doe 
-Sullivan’s Travels 
-The Lady Eve 
-The Maltese Falcon 
-The Strawberry Blonde 
-Holiday Inn 
-Mrs. Miniver 
-The Black Swan 
-The Major and the Minor 
-Woman of the Year 
-Yankee Doodle Dandy 
-A Guy Named Joe 
-Casablanca 
-The Ox-bow Incident 
-Arsenic and Old Lace 
-Double Indemnity 
-Murder
-My Sweet
-National Velvet 
-The Keys of the Kingdom 
-Thirty Seconds Over Tokyo 
-To Have and Have Not
-Christmas in Connecticut 
-Scarlet Street 
-Great Expectations 
-It's a Wonderful Life 
-My Darling Clementine 
-Notorious 
-The Best Years of Our Lives 
-The Big Sleep 
-The Killers 
-The Strange Love of Martha Ivers 
-The Yearling 
-To Each His Own 
-Body and Soul 
-Brighton Rock 
-Dark Passage 
-Miracle on 34th Street 
-Out of the Past 
-3 Godfathers 
-Fort Apache
-Key Larg
-Macbeth
-Oliver Twist
-Red River
-Rope
-Sorry
-Wrong Number
-The Snake Pit
-Adam’s Rib
-Champion
-Holiday Affair
-She Wore a Yellow Ribbon
-The Heiress 
-The Third Man
-Twelve O’Clock High
+Foreign Correspondent<br>
+His Girl Friday<br>
+Kitty Foyle<br>
+Rebecca<br>
+The Grapes of Wrath<br>
+The Great Dictator <br>
+The Little Shop Around the Corner <br>
+The Philadelphia Story <br>
+The Shop Around the Corner <br>
+Ball of Fire <br>
+Citizen Kane <br>
+Hold Back the Dawn <br>
+How Green Was My Valley <br>
+Meet John Doe <br>
+Sullivan’s Travels <br>
+The Lady Eve <br>
+The Maltese Falcon <br>
+The Strawberry Blonde <br>
+Holiday Inn <br>
+Mrs. Miniver <br>
+The Black Swan <br>
+The Major and the Minor <br>
+Woman of the Year <br>
+Yankee Doodle Dandy <br>
+A Guy Named Joe <br>
+Casablanca <br>
+The Ox-bow Incident <br>
+Arsenic and Old Lace <br>
+Double Indemnity <br>
+Murder<br>
+My Sweet<br>
+National Velvet <br>
+The Keys of the Kingdom <br>
+Thirty Seconds Over Tokyo <br>
+To Have and Have Not<br>
+Christmas in Connecticut <br>
+Scarlet Street <br>
+Great Expectations <br>
+It's a Wonderful Life <br>
+My Darling Clementine <br>
+Notorious <br>
+The Best Years of Our Lives <br>
+The Big Sleep <br>
+The Killers <br>
+The Strange Love of Martha Ivers <br>
+The Yearling <br>
+To Each His Own <br>
+Body and Soul <br>
+Brighton Rock <br>
+Dark Passage <br>
+Miracle on 34th Street <br>
+Out of the Past <br>
+3 Godfathers <br>
+Fort Apache<br>
+Key Larg<br>
+Macbeth<br>
+Oliver Twist<br>
+Red River<br>
+Rope<br>
+Sorry<br>
+Wrong Number<br>
+The Snake Pit<br>
+Adam’s Rib<br>
+Champion<br>
+Holiday Affair<br>
+She Wore a Yellow Ribbon<br>
+The Heiress <br>
+The Third Man<br>
+Twelve O’Clock High<br>
 
 1950:
-All About Eve
-Father of the Bride
-Harvey
-Outrage
-Panic in the Streets 
-Rio Grande 
-Sunset Boulevard 
-The Asphalt Jungle
-Wagon Master
-Where the Sidewalk Ends 
-Young Man with a Horn 
-A Place in the Sun 
-A Streetcar Named Desire
-Ace in the Hole
-Forbidden Planet
-He Ran All the Way
-Jim Thorpe - All-American
-Strangers on a Train
-The African Queen
-The Day the Earth Stood Still
-The Desert Fox: The Story of Rommel
-The Prowler (Cost of Living)
-High Noon
-My Cousin Rachel
-The Bad and the Beautiful
-The Narrow Margin
-The Quiet Man
-Gentlemen Prefer Blondes
-How to Marry a Millionaire
-Julius Caesar
-Roman Holiday
-Shane
-Stalag 17
-20,000 Leagues Under the Sea
-Executive Suite
-L’oro di Napoli (The Gold of Naples)
-On the Waterfront
-Rear Window
-Sabrina
-Seven Brides for Seven Brothers
-Seven Samurai
-White Christmas
-Blackboard Jungle
-Mister Roberts
-Summertime
-The Man From Laramie
-We’re No Angels
-Giant
-Love Me Tender
-Lust for Life
-Rififi
-The Brave One
-The King and I
-The Searchers
-There’s Always Tomorrow 
-12 Angry Men
-Designing Woman
-Jailhouse Rock 
-Loving You 
-Sweet Smell of Success
-The Bridge on the River Kwai 
-The Curse of Frankenstein 
-The Seventh Seal 
-Witness for the Prosecution
-Cat on a Hot Tin Roof
-Dracula
-Horror of Dracula
-Houseboat
-King Creole
-Rio Bravo
-Teacher’s Pet
-The Big Country
-The Vikings
-Touch of Evil
-Vertigo, Anatomy of a Murder
-Ben-Hur
-Compulsion
-Darby O’Gill and the Little People
-North by Northwest
-On the Beach
-Some Like it Hot
-Suddenly Last Summer
-The Hound of the Baskervilles
-The Mummy
-The Nun’s Story
+All About Eve<br>
+Father of the Bride<br>
+Harvey<br>
+Outrage<br>
+Panic in the Streets <br>
+Rio Grande <br>
+Sunset Boulevard <br>
+The Asphalt Jungle<br>
+Wagon Master<br>
+Where the Sidewalk Ends <br>
+Young Man with a Horn <br>
+A Place in the Sun <br>
+A Streetcar Named Desire<br>
+Ace in the Hole<br>
+Forbidden Planet<br>
+He Ran All the Way<br>
+Jim Thorpe - All-American<br>
+Strangers on a Train<br>
+The African Queen<br>
+The Day the Earth Stood Still<br>
+The Desert Fox: The Story of Rommel<br>
+The Prowler (Cost of Living)<br>
+High Noon<br>
+My Cousin Rachel<br>
+The Bad and the Beautiful<br>
+The Narrow Margin<br>
+The Quiet Man<br>
+Gentlemen Prefer Blondes<br>
+How to Marry a Millionaire<br>
+Julius Caesar<br>
+Roman Holiday<br>
+Shane<br>
+Stalag 17<br>
+20,000 Leagues Under the Sea<br>
+Executive Suite<br>
+L’oro di Napoli (The Gold of Naples)<br>
+On the Waterfront<br>
+Rear Window<br>
+Sabrina<br>
+Seven Brides for Seven Brothers<br>
+Seven Samurai<br>
+White Christmas<br>
+Blackboard Jungle<br>
+Mister Roberts<br>
+Summertime<br>
+The Man From Laramie<br>
+We’re No Angels<br>
+Giant<br>
+Love Me Tender<br>
+Lust for Life<br>
+Rififi<br>
+The Brave One<br>
+The King and I<br>
+The Searchers<br>
+There’s Always Tomorrow <br>
+12 Angry Men<br>
+Designing Woman<br>
+Jailhouse Rock <br>
+Loving You<br> 
+Sweet Smell of Success<br>
+The Bridge on the River Kwai <br>
+The Curse of Frankenstein <br>
+The Seventh Seal <br>
+Witness for the Prosecution<br>
+Cat on a Hot Tin Roof<br>
+Dracula<br>
+Horror of Dracula<br>
+Houseboat<br>
+King Creole<br>
+Rio Bravo<br>
+Teacher’s Pet<br>
+The Big Country<br>
+The Vikings<br>
+Touch of Evil<br>
+Vertigo, <br> 
+Anatomy of a Murder<br>
+Ben-Hur<br>
+Compulsion<br>
+Darby O’Gill and the Little People<br>
+North by Northwest<br>
+On the Beach<br>
+Some Like it Hot<br>
+Suddenly Last Summer<br>
+The Hound of the Baskervilles<br>
+The Mummy<br>
+The Nun’s Story<br>
 
 1960:
-BUtterfield 8
-Exodus
-Flaming Star
-Inherit the Wind
-It Started in Naples
-La ciociara (Two Women)
-Psycho
-Spartacus
-The Apartment
-The Time Machine
-Blue Hawaii
-Breakfast at Tiffany’s
-El Cid
-Judgment at Nuremberg
-The Guns of Navarone
-The Innocents
-The Parent Trap
-West Side Story
-Wild in the Country
-Cape Fear
-Dr. No
-Follow That Dream
-Lawrence of Arabia
-Lonely are the Brave
-Long Day’s Journey Into Night
-Mr. Hobbs Takes a Vacation
-The Children’s Hour
-The Longest Day
-The Man Who Shot Liberty Valance
-To Kill a Mockingbird
-Charade
-Cleopatra
-From Russia With Love
-Ieri
-Oggi
-Domani (Yesterday, Today, and Tomorrow)
-McLintock!
-The Birds
-The Great Escape
-The Thrill of it All
-Becket
-Dr. Strangelove or; How I Learned to Stop Worrying and Love the Bomb, Goldfinger
-Hush… Hush
-Sweet Charlotte
-Marnie
-Mary Poppins
-Matrimonio all’italiana (Marriage Italian Style)
-My Fair Lady
-Roustabout
-The Americanization of Emily
-Viva Las Vegas
-Zulu
-Lord Jim
-The Cincinnati Kid
-The Hill
-The Ipcress File
-The Sound of Music
-The Train
-Thunderball
-Alfie
-Arabesque
-Gambit
-Grand Prix
-Harper (The Moving Target)
-How to Steal a Million
-The Fortune Cookie
-The Good, the Bad and the Ugly, 
-Torn Curtain
-Walk
-Don’t Run, Who’s Afraid of, Virginia Woolf?
-Barefoot in the Park
-Belle de Jour
-Cool Hand Luke
-Falstaff (Chimes at Midnight)
-Guess Who’s Coming to Dinner?
-Hour of the Gun
-The Graduate
-The Producers
-The Taming of the Shrew
-Thoroughly Modern Millie
-To Sir With Love 
-Up the Down Staircase
-Wait Until Dark
-You Only Live Twice
-2001: A Space Odyssey
-Night of the Living Dead
-Romeo and Juliet
-The Devil Rides Out
-The Lion in Winter
-The Subject Was Roses
-Butch Cassidy and the Sundance Kid
-Change of Habit
-Downhill Racer
-Easy Rider
-Goodbye
-Mr. Chips (1969)
-On Her Majesty’s Secret Service
-Support Your Local Sheriff
-The Battle of Britain
-The Italian Job
-The Learning Tree
-The Prime of Miss Jean Brodie, and The Wild Bunch
+BUtterfield 8<br>
+Exodus<br>
+Flaming Star<br>
+Inherit the Wind<br>
+It Started in Naples<br>
+La ciociara (Two Women)<br>
+Psycho<br>
+Spartacus<br>
+The Apartment<br>
+The Time Machine<br>
+Blue Hawaii<br>
+Breakfast at Tiffany’s<br>
+El Cid<br>
+Judgment at Nuremberg<br>
+The Guns of Navarone<br>
+The Innocents<br>
+The Parent Trap<br>
+West Side Story<br>
+Wild in the Country<br>
+Cape Fear<br>
+Dr. No<br>
+Follow That Dream<br>
+Lawrence of Arabia<br>
+Lonely are the Brave<br>
+Long Day’s Journey Into Night<br>
+Mr. Hobbs Takes a Vacation<br>
+The Children’s Hour<br>
+The Longest Day<br>
+The Man Who Shot Liberty Valance<br>
+To Kill a Mockingbird<br>
+Charade<br>
+Cleopatra<br>
+From Russia With Love<br>
+Ieri<br>
+Oggi<br>
+Domani (Yesterday, Today, and Tomorrow)<br>
+McLintock!<br>
+The Birds<br>
+The Great Escape<br>
+The Thrill of it All<br>
+Becket<br>
+Dr. Strangelove or; How I Learned to Stop Worrying and Love the Bomb, Goldfinger<br>
+Hush… Hush<br>
+Sweet Charlotte<br>
+Marnie<br>
+Mary Poppins<br>
+Matrimonio all’italiana (Marriage Italian Style)<br>
+My Fair Lady<br>
+Roustabout<br>
+The Americanization of Emily<br>
+Viva Las Vegas<br>
+Zulu<br>
+Lord Jim<br>
+The Cincinnati Kid<br>
+The Hill<br>
+The Ipcress File<br>
+The Sound of Music<br>
+The Train<br>
+Thunderball<br>
+Alfie<br>
+Arabesque<br>
+Gambit<br>
+Grand Prix<br>
+Harper (The Moving Target)<br>
+How to Steal a Million<br>
+The Fortune Cookie<br>
+The Good, the Bad and the Ugly, <br>
+Torn Curtain<br>
+Walk<br>
+Don’t Run, Who’s Afraid of, Virginia Woolf?<br>
+Barefoot in the Park<br>
+Belle de Jour<br>
+Cool Hand Luke<br>
+Falstaff (Chimes at Midnight)<br>
+Guess Who’s Coming to Dinner?<br>
+Hour of the Gun<br>
+The Graduate<br>
+The Producers<br>
+The Taming of the Shrew<br>
+Thoroughly Modern Millie<br>
+To Sir With Love <br>
+Up the Down Staircase<br>
+Wait Until Dark<br>
+You Only Live Twice<br>
+2001: A Space Odyssey<br>
+Night of the Living Dead<br>
+Romeo and Juliet<br>
+The Devil Rides Out<br>
+The Lion in Winter<br>
+The Subject Was Roses<br>
+Butch Cassidy and the Sundance Kid<br>
+Change of Habit<br>
+Downhill Racer<br>
+Easy Rider<br>
+Goodbye<br>
+Mr. Chips (1969)<br>
+On Her Majesty’s Secret Service<br>
+Support Your Local Sheriff<br>
+The Battle of Britain<br>
+The Italian Job<br>
+The Learning Tree<br>
+The Prime of Miss Jean Brodie, and The Wild Bunch<br>
 
 1970:
 Catch-22
